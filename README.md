@@ -1,4 +1,4 @@
 # Levenshtein
-Implementation of the Levenshtein distance algorithm
+Implementation of the Levenshtein distance algorithm.
 
-Levenshtein implementation in levenshtein.py, example usecase on dognames in Levenshtein_example.ipynb
+Algorithm implementation is in levenshtein.py, usage example on dognames in Levenshtein_example.ipynb.
